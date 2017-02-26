@@ -6,6 +6,7 @@ import java.util.Queue;
 
 public class Logger {
 
+
     // As there will be only one logger at a time,
     // we are implementing the singleton pattern
     // hence declaring the Logger object as static
