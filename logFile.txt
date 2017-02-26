@@ -1,0 +1,4 @@
+D: Tue Feb 07 17:59:00 IST 2017: This is a debug message
+I: Tue Feb 07 17:59:00 IST 2017: This is an info message
+W: Tue Feb 07 17:59:00 IST 2017: This is a warning message
+E: Tue Feb 07 17:59:00 IST 2017: This is an error message
